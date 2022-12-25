@@ -4,7 +4,7 @@
 <li>document.getElementById()</li>
 <li>addEventListener()</li>
 <li>setInterval()</li>
-<li>CSS Styling
+<li>CSS Styling</li>
 </ul>
 <h3>Output of The Application:</h3>
 <img src="/StopWatch/Assets/StopWatch_SS.jpg" />
